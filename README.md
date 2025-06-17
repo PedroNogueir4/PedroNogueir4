@@ -1,16 +1,47 @@
-### Hi there 👋
+# 👋 Olá! Eu sou o Pedro Nogueira
 
-<!--
-**PedroNogueir4/PedroNogueir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Full Stack (com foco em Front-End) apaixonado por resolver problemas com código limpo, escalável e bem estruturado.  
+🎓 Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Stacks que utilizo:
+
+### 💻 Front-End
+- React.js • Next.js • React Native  
+- TypeScript • JavaScript  
+- Tailwind CSS • ShadCN UI • Styled-Components  
+- PrimeReact • Material UI  
+- HTML5 • CSS3  
+
+### 🧠 Back-End
+- Node.js • NestJS  
+- Express • JWT • Multer  
+- Sequelize • TypeORM  
+
+### 🗄️ Banco de Dados
+- PostgreSQL • SQL Server • MongoDB  
+- Migrations com Sequelize e TypeORM  
+- Neon e Azure PostgreSQL  
+
+### ⚙️ Ferramentas e Práticas
+- Git & GitHub  
+- REST APIs  
+- Validação com Yup e Zod  
+- React Hook Form  
+- Clean Code & Componentização  
+- Deploy e versionamento organizado  
+
+---
+
+
+## 📫 Como falar comigo
+
+- Email: pedroffn209@gmail.com  
+- LinkedIn: [Pedro Nogueira](https://www.linkedin.com/in/pedroflavionogueira/)  
+- GitHub: [@PedroNogueir4](https://github.com/PedroNogueir4)
+
+---
+
+_Obrigado por visitar meu perfil! Estou sempre aberto a parcerias, feedbacks e novas conexões!_
+
